@@ -17,8 +17,9 @@
 
 
 
-[1322110_01 طراحي واسط كاربر 3](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/UserInterfaceDesgin)
+[1322110_01 طراحي واسط كاربر ](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/UserInterfaceDesgin)
 <br>
+[1322100_01 برنامه نویسی وب ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming)
 
 --------------
 ## روز و ساعت ارائه دروس
@@ -34,9 +35,9 @@
   </tr>
   <tr>
     <th ></th>
+    <th >سیستم های چند رسانه ای</th>
     <th ></th>
-    <th ></th>
-    <th></th>
+    <th>زبان های برنامه نویسی</th>
     <th></th>
     <th>شنبه</th>
   </tr>
@@ -51,8 +52,8 @@
    <tr>
      <th ></th>
      <th ></th>
-     <th></th>
-    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
+    <th></th>
     <th></th>   
     <th>دوشنبه</th>
   </tr>
@@ -61,7 +62,7 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th ></th>
+    <th >اصول طراحی پایگاه داده</th>
     <th>سه شنبه</th>
   </tr>
    <tr>
