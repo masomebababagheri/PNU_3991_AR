@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/masomebababagheri)
 
-- [رزومه]()
+- [رزومه](https://github.com/masomebababagheri/masomebababagheri.github.io)
 
 - [SOP]()
 
