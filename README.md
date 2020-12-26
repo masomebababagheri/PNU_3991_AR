@@ -7,7 +7,7 @@
 
 - [Resume](https://masomebababagheri.github.io/Rezome/)
 
-- [SOP]()
+- [SOP](https://masomebababagheri.github.io/Angize/)
 
 - [Certificates](https://www.sololearn.com/Certificate/1024-20697631/jpg)
 
