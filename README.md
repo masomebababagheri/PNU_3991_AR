@@ -3,13 +3,13 @@
 ### معصومه بابا باقری
  
 ---
-- [حساب گیت هاب](https://github.com/masomebababagheri)
+- [GitHub](https://github.com/masomebababagheri)
 
-- [رزومه](https://masomebababagheri.github.io/Rezome/)
+- [Resume](https://masomebababagheri.github.io/Rezome/)
 
 - [SOP]()
 
-- [certificates](https://www.sololearn.com/Certificate/1024-20697631/jpg/)
+- [Certificates](https://www.sololearn.com/Certificate/1024-20697631/jpg)
 
 ------------------
 ## Winter Semester Courses 1399/2020
