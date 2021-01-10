@@ -5,7 +5,7 @@
 ---
 - [GitHub](https://github.com/masomebababagheri)
 
-- [Resume](https://masomebababagheri.github.io/rezume/)
+- [Resome](https://masomebababagheri.github.io/Rezome/)
 
 - [SOP](https://masomebababagheri.github.io/Sop/)
 
