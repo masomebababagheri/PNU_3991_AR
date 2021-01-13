@@ -2,18 +2,19 @@
 
 <div dir="rtl">
 ---------
+ 
 ## معصومه بابا باقری
  
 ---
-- [GitHub](https://github.com/masomebababagheri)
+- [گیت هاب](https://github.com/masomebababagheri)
 
-- [Resome](https://masomebababagheri.github.io/Rezome/)
+- [رزومه](https://masomebababagheri.github.io/Rezome/)
 
-- [SOP](https://masomebababagheri.github.io/Sop/)
+- [انگیزه نامه](https://masomebababagheri.github.io/Sop/)
 
-- [Certificates](https://www.sololearn.com/Certificate/1024-20697631/jpg)
+- [مدرک جاوا اسکریپت](https://www.sololearn.com/Certificate/1024-20697631/jpg)
 
-- [Form ha](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/formhaye%20arzyabi)
+- [فرم های ارزیابی](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/formhaye%20arzyabi)
 
 ------------------
 ## Winter Semester Courses 1399/2020
@@ -27,7 +28,7 @@
 [1322100_01 برنامه نویسی وب ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming)
 
 --------------
-## گروه
+## گروه ها
  1. G-U01
     1. [_UID-03_مهديه اسدپور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/03_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%A7%D8%B3%D8%AF%D9%BE%D9%88%D8%B1)    
     1. [_UID-05_معصومه بابا باقري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/05_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%A8%D8%A7%D8%A8%D8%A7%20%D8%A8%D8%A7%D9%82%D8%B1%D9%8A)    
