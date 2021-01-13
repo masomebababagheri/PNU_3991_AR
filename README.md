@@ -14,7 +14,7 @@
 
 - [مدرک جاوا اسکریپت](https://www.sololearn.com/Certificate/1024-20697631/jpg)
 
-- [فرم های ارزیابی](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/formhaye%20arzyabi)
+- [فرم های ارزیابی](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/General)
 
 ------------------
 
