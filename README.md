@@ -1,7 +1,7 @@
 # PNU_3991_AR
 
 <div dir="rtl">
----------
+
  
 ## معصومه بابا باقری
  
@@ -17,7 +17,6 @@
 - [فرم های ارزیابی](https://github.com/masomebababagheri/PNU_3991_AR/tree/main/formhaye%20arzyabi)
 
 ------------------
-## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
